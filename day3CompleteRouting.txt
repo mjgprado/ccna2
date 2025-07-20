@@ -229,7 +229,7 @@ SIET: show ip eigrp topology --> super, madami ang P, P lahat
 show ip eigrp traffic
 show ip route eigrp
 
-!!Multi Area OSPF FOR nETWOR eNGINEERS:
+!!Single Area OSPF FOR nETWOR eNGINEERS:
 OSPF NETWORK:
 R4:
 config t
